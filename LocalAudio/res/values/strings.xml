@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocalAudio</string>
+    <string name="action_settings">Settings</string>
+    <string name="metti_la_canzone_del_luogo_">Start the local song!</string>
+    <string name="stop_the_music">Stop the music!</string>
+
+</resources>

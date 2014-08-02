@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+C:\Users\Dexter\Desktop\Sistemi Mobili\Esercitazione Android\.metadata\.plugins\org.eclipse.jdt.core
+225613552.index
+3728397252.index
+1284074322.index
+3379871522.index
+1321104456.index
+1204964771.index
+3449372124.index
